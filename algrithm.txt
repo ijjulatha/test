@@ -1,0 +1,21 @@
+Step1:Start
+Step2: enter Student name 
+Step3:enter student roll num
+Step4:course 
+Step5:student data
+Step6:update data
+Step7:total number of students
+Step8:check the data 
+Step9:confirmtion
+Step10:stop
+
+
+
+
+1.procedure reverse
+2.intalization  n num of varible is reverse
+3.intalization repeat until 1 0
+4.reverse 10
+5.print sum
+6.return reverse
+7.end
